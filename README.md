@@ -14,7 +14,7 @@ I'm a full-stack engineer. I have delivered effective production to 4+ companies
 
 In my spare time, I love solving code challenges at hackerrank.com. ❤️ <br/>
 Here is my hackerrank profile. <br/>
-<a href='https://hackerrank.com/dev_engineer'>🥇 Hackerrank 🥇 </a>
+<a href='https://hackerrank.com/henryziad'>🥇 Hackerrank 🥇 </a>
 
 <h3>I mainly work in early stage startups for various companies.</h3>
 <h4>
