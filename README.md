@@ -1,7 +1,7 @@
 <h1>Hi, there  👋</h1>
 <h2>I'm a shipping machine and dev wizard 💫🧙💫 🤖🛳️🤖 </h2>
 
-Recently, I'm working on a decentralized toolkit for musicians based on Zora under project managment of <a href='https://github.com/SweetmanTech'>Sweetman</a>. 🧰
+Recently, I'm working on a decentralized toolkit for musicians based on Zora with <a href='https://github.com/SweetmanTech'>Sweetman</a>. 🧰
 
 I'm a full-stack engineer. I have delivered effective production to 4+ companies, from startups to Fortune 500s. 🚢
 
