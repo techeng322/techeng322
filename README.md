@@ -12,9 +12,11 @@ I'm a full-stack engineer. I'm a full-stack engineer. Super fast shipping with h
 <a href='https://vinovest.co'>Vinovest.co</a> : Wine Investment Platform 🍷🍇 <br/>
 <a href='https://tepe-brt.azurewebsites.net'>Tepe.Brt</a> TePe corporate, odontology, research 💊🏥 <br/>
 
-In my spare time, I love solving code challenges at hackerrank.com. ❤️ <br/>
+❤️ In my spare time, I love solving code challenges at hackerrank.com. ❤️ <br/>
 Here is my hackerrank profile. <br/>
-<a href='https://hackerrank.com/henryziad'>🥇 Hackerrank 🥇 </a>
+<a href='https://hackerrank.com/henryziad'>🥇 Hackerrank 🥇 </a> <br/>
+
+❤️ I love learning the experiences of great geniuses and applying them to my engineering and technological development. ❤️
 
 Nowadays, I started writing <a href="https://mirror.xyz/0x51027631B9DEF86e088C33368eC4E3A4BE0aD264">✒️ Blogs ✒️</a> with my previous technical challenges & solutions about them. <br/>
 Maybe, It will be my another hobby.
