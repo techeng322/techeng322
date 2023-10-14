@@ -16,6 +16,9 @@ In my spare time, I love solving code challenges at hackerrank.com. ❤️ <br/>
 Here is my hackerrank profile. <br/>
 <a href='https://hackerrank.com/henryziad'>🥇 Hackerrank 🥇 </a>
 
+Recently, I started writing <a href="https://mirror.xyz/0x51027631B9DEF86e088C33368eC4E3A4BE0aD264">✒️ Blogs ✒️</a> with my previous technical challenges & solutions about them. 
+Maybe, It will be my another hobby.
+
 <h3>I mainly work in early stage startups for various companies.</h3>
 <h4>
   <ul>
