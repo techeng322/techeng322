@@ -5,12 +5,10 @@ Recently, I'm working on a decentralized toolkit for musicians based on Zora wit
 
 I'm a full-stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 
-❤️❤️❤️
 - In my spare time, I love solving code challenges at hackerrank.com.  <br/>
 <a href='https://hackerrank.com/henryziad'>🥇 Hackerrank 🥇 </a> <br/>
+- Nowadays, I started writing <a href="https://mirror.xyz/0x323e8BCB41ae2454c3f4899e094c599AaB6b84BC">✒️ Blogs ✒️</a> with my previous technical challenges & codebases <br/>
 - I love learning the experiences of great geniuses and applying them to my engineering and technological development.
-
-Nowadays, I started writing <a href="https://mirror.xyz/0x323e8BCB41ae2454c3f4899e094c599AaB6b84BC">✒️ Blogs ✒️</a> with my previous technical challenges & codebases <br/>
 
 <a href='https://onchainmagic.xyz'>OnchainMagic</a> : ERC1155, ERC721 MUSIC NFT Minting Platform based on Zora💿🥁 <br/>
 <a href='https://cre8ors.com'>Cre8ors.com</a>, <a href='https://everythingcorp.cre8ors.com/'>Everything Corp</a> : First and Largest digital marketplace for crypto collectibles and NFTs 💎💎 <br/>
