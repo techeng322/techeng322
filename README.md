@@ -17,7 +17,7 @@ I'm a full-stack engineer. Super fast shipping with high-quality works is my tec
 <a href='https://hackerrank.com/henryziad'>🥇 Hackerrank 🥇 </a> <br/>
 - I love learning the experiences of great geniuses and applying them to my engineering and technological development.
 
-Nowadays, I started writing <a href="https://mirror.xyz/0x51027631B9DEF86e088C33368eC4E3A4BE0aD264">✒️ Blogs ✒️</a> with my previous technical challenges & solutions about them. <br/>
+Nowadays, I started writing <a href="https://mirror.xyz/0x323e8BCB41ae2454c3f4899e094c599AaB6b84BC">✒️ Blogs ✒️</a> with my previous technical challenges & solutions about them. <br/>
 Maybe, It will be my another hobby.
 
 <h3>I mainly work in early stage startups for various companies.</h3>
