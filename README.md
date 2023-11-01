@@ -7,7 +7,6 @@ And I am also on building <a href='https://financialverse.vercel.app'>financial 
 I'm a full-stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 
 - In my spare time, I like <a href="https://mirror.xyz/0x323e8BCB41ae2454c3f4899e094c599AaB6b84BC"> writing ✒️</a> with my previous technical challenges & codebases. <br/>
-- And I love solving code challenges at <a href='https://hackerrank.com/henryziad'> hackerrank 🥇</a> <br/>
 
 <a href='https://financialverse.vercel.app'>Financial Verse</a> : Financial + On-Chain 🏛 💵 <br/>
 <a href='https://onchainmagic.xyz'>OnchainMagic</a> : ERC1155, ERC721 MUSIC NFT Minting Platform based on Zora💿🥁 <br/>
