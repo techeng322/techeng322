@@ -6,7 +6,7 @@ And I am on building financial verse web project also.
 
 I'm a full-stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 
-- In my spare time, I like writing <a href="https://mirror.xyz/0x323e8BCB41ae2454c3f4899e094c599AaB6b84BC"> Blogs ✒️</a> with my previous technical challenges & codebases. <br/>
+- In my spare time, I like <a href="https://mirror.xyz/0x323e8BCB41ae2454c3f4899e094c599AaB6b84BC"> writing ✒️</a> with my previous technical challenges & codebases. <br/>
 - And I love solving code challenges at hackerrank  <br/>
 <a href='https://hackerrank.com/henryziad'> Hackerrank 🥇 </a> <br/>
 
