@@ -8,6 +8,7 @@ I'm a full-stack engineer. Super fast shipping with high-quality works is my tec
 
 In my spare time, I like <a href="https://mirror.xyz/0x1bD92fEa3508c0CAA82b149F2fBe035D9E09A737"> writing ✒️</a> with my previous technical challenges & codebases. <br/>
 
+<a href='https://session-pied.vercel.app/'>SESSION</a> : Book your next studio session today. 🎹 🎻 <br/>
 <a href='https://financialverse.vercel.app'>Financial Verse</a> : Financial + On-Chain 🏛 💵 <br/>
 <a href='https://onchainmagic.xyz'>OnchainMagic</a> : ERC1155, ERC721 MUSIC NFT Minting Platform based on Zora💿🥁 <br/>
 <a href='https://cre8ors.com'>Cre8ors.com</a>, <a href='https://everythingcorp.cre8ors.com/'>Everything Corp</a> : First and Largest digital marketplace for crypto collectibles and NFTs 💎💎 <br/>
