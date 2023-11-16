@@ -1,9 +1,6 @@
 <h1>Hi, there  👋</h1>
 <h2>I'm a shipping machine and dev wizard 💫🧙💫 🤖🛳️🤖 </h2>
 
-Recently, I'm working on a decentralized toolkit for musicians based on Zora with <a href='https://github.com/SweetmanTech'>Sweetman</a>. 🧰 <br/>
-And I am also on building <a href='https://financialverse.vercel.app'>financial verse</a>.
-
 I'm a full-stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 
 In my spare time, I like <a href="https://mirror.xyz/0x1bD92fEa3508c0CAA82b149F2fBe035D9E09A737"> writing ✒️</a> with my previous technical challenges & codebases. <br/>
