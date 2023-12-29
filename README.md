@@ -3,7 +3,7 @@
 
 I'm a full-stack engineer. Super fast shipping with high-quality works is my tech strength. ⚡️🛳️⚡️ <br/>
 
-<a href='https://heno-website.vercel.app'>RXDco</a> : Custom Cannabis Packaging Company<br/>
+<a href='https://heno-website.vercel.app'>RXDco</a> : Custom Cannabis Packaging Company 📦<br/>
 <a href='https://heno-website.vercel.app'>Heno Website</a> : Heno.'s Home Online & Onchain. 🎤️<br/>
 <a href='https://session-pied.vercel.app/'>SESSION</a> : Book your next studio session today. 🎹 <br/>
 <a href='https://financialverse.vercel.app'>Financial Verse</a> : Financial + On-Chain 💵 <br/>
