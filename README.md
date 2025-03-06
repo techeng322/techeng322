@@ -4,13 +4,6 @@ I am a software engineer with over 9 years of experience.
 Throughout my career, I have been trying to stay at the forefront of the ever-evolving technology landscape while contributing to prominent on-chain music platforms and artists and and getting the multiple hackathon wins.
 My strong problem-solving abilities, attention to detail, and ability to work collaboratively make me an asset to any development team.
 
-My strengths and skills include:
-- Frontend frameworks such as React/Next.js & Angular.
-- Backend engineering with Python, Node.js
-- Database architecture with PostgreSQL, MongoDB and etc.
-- Blockchain technology with Ganache, Truffle and Solidity.
-- Trello, Linear, Github/Gitlab, DevOps, Agile and CI/CD. 
-
 Here are a few: <br/>
 - Capsules: Onchain Summer Buildathon Winner by launching onchain playlists using token-bound accounts 🎧. [Try it](https://soundcapsules.vercel.app/) <br/>
 - MESA: Blockchain-enabled rights management tool for musicians, facilitating version control, collaborator contracts, and smart contract integration ♻️. [Try it](https://www.mesawallet.io/). <br/>
