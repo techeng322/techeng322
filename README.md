@@ -1,7 +1,7 @@
 <h1>Hi, there  👋</h1> 
 
 I am a software engineer.
-Throughout my career, I have been trying to stay at the forefront of the ever-evolving technology landscape while contributing to prominent on-chain music platforms and artists and and getting the multiple hackathon wins.
+Throughout my career, I have been trying to stay at the forefront of the ever-evolving technology landscape while contributing to prominent on-chain music platforms and artists([Heno](https://www.mynameisheno.xyz/), [LATASHÁ](https://inprocess.myco.wtf/), [Xcelencia](https://www.estrella.city/)) and and getting the multiple hackathon wins.
 My strong problem-solving abilities, attention to detail, and ability to work collaboratively make me an asset to any development team.
 
 Here are a few: <br/>
